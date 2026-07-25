@@ -1,0 +1,6 @@
+{
+  "name": "Skipping Rope Counter",
+  "description": "Real-time acoustic jump rope repetition counter working completely offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
